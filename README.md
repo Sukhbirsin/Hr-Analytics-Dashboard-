@@ -1,12 +1,15 @@
-# Hr-Analytics-Dashboard-
+HR Analytics Dashboard | Power BI
 
-Today, I have made "HR Analytics Dashboard“ using powerbi, which helped me a lot to learn and get knowledge about real-time industrial projects....
+Developed an HR Analytics Dashboard using Power BI to analyze employee attrition and workforce performance.
 
-The Aim 👉🏾 Is to identify the key factors about employees attrition from a company.
+Analyzed key HR metrics including attrition rate, employee demographics, department-wise trends, and salary distribution.
 
-🔑 Key points from insights 👀
+Identified key factors contributing to employee attrition such as job role, department, compensation, and employee experience.
 
-Reduce the employee attrition.
-Improve employee experience
-Improving hiring process.
-Increase their salaries based on their department.
+Performed data cleaning, data validation, and transformation to ensure data accuracy and reliability.
+
+Created interactive dashboards and KPIs to support HR decision-making and strategic planning.
+
+Generated actionable insights to reduce employee attrition, improve employee experience, and optimize hiring processes.
+
+Provided data-driven recommendations for salary adjustments and retention strategies across departments.
